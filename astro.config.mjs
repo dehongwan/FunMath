@@ -15,7 +15,7 @@ await bdb.ready();
 // https://astro.build/config
 export default defineConfig({
 	 site: 'https://dehongwan.github.io',
-	 base: '/FunMath',
+    // base: '/FunMath/', 注意：以斜杠开头和结尾
 	integrations: [
 		brainDbAstro({ remarkWikiLink: false }),
 		starlight({
