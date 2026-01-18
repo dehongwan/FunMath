@@ -11,7 +11,17 @@
   },
   "dependencies": {
     "@astrojs/starlight": "^0.37.3",
+    "@braindb/astro": "^0.1.1",
+    "@braindb/core": "^0.0.17",
+    "@braindb/remark-wiki-link": "^2.1.0",
+    "@floating-ui/dom": "^1.7.4",
     "astro": "^5.6.1",
-    "sharp": "^0.34.2"
+    "sharp": "^0.34.2",
+    "starlight-fullview-mode": "^0.2.6",
+    "starlight-image-zoom": "^0.13.2",
+    "starlight-scroll-to-top": "^0.4.0",
+    "starlight-site-graph": "^0.5.0",
+    "starlight-theme-galaxy": "^0.7.0",
+    "starlight-custom-navigation":"0.0.1"
   }
 }
